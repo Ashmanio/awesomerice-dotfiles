@@ -16,3 +16,6 @@ Remember to Rename The zshrc to .zshrc
 - pipes.sh
 - tty-clock
 - pfetch
+
+## Time taken
+3 days (aaron you suck !!!!!)
