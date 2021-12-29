@@ -7,12 +7,12 @@
 Remember to Rename The zshrc to .zshrc
 
 ## Details
-Distro: Mint
-Shell: Zsh
-WM: Awesome
-Bar: Polybar
+- Distro: Mint
+- Shell: Zsh
+- WM: Awesome
+- Bar: Polybar
 
 ### Terminal Programs in the Images
-pipes.sh
-tty-clock
-pfetch
+- pipes.sh
+- tty-clock
+- pfetch
