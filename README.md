@@ -11,6 +11,7 @@ Remember to Rename The zshrc to .zshrc
 - Shell: Zsh
 - WM: Awesome
 - Bar: Polybar
+- Terminal: Alacritty
 
 ### Terminal Programs in the Images
 - pipes.sh
